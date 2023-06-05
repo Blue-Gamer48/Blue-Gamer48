@@ -5,7 +5,8 @@
 Discord: Blue_Gamer48#3565
 
 
+### Hi there 👋
 
-[![Blue_Gamer48's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Gamer48&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Gamer48&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Gamer48&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
