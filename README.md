@@ -13,9 +13,9 @@ ich bin Blue_Gamer48 und Entwickle Discord Bots
   
 -------------------
   
-![Blue_Gamer48s github stats](https://github-readme-stats.vercel.app/api?username=Blue_Gamer48s&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Blue_Gamer48s github stats](https://github-readme-stats.vercel.app/api?username=Blue-Gamer48&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Blue_Gamer48s github streak](https://github-readme-streak-stats.herokuapp.com/?user=Blue_Gamer48&theme=radical&include_all_commits=true&count_private=true)
+![Blue_Gamer48s github streak](https://github-readme-streak-stats.herokuapp.com/?user=Blue-Gamer48&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
 
@@ -23,7 +23,7 @@ ich bin Blue_Gamer48 und Entwickle Discord Bots
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/VmathiasV/count.svg" />
+  <img src="https://profile-counter.glitch.me/BLue-Gamer48/count.svg" />
 </p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Gamer48&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
