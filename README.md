@@ -3,13 +3,14 @@
 <div align="center">
   
 ## Über Mich
-ich bin Blue_Gamer48 und Entwickle Discord Bots
-- ⚙ Entwickler von Planertbot für den Server Herz des Nordens 
+ich bin Blue_Gamer48 und Entwickle Discord Bots und Minecraft Plugins
 - ✉ info@blue-gamer48.de
 -------------------
 
 ### Sprachen und Tools
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![PyCord](https://img.shields.io/badge/pycord-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML&CSS](https://img.shields.io/badge/HTML&CSS-%23E34F26.svg?style=for-the-badge&logo=HTML&CSS&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![PyCord](https://img.shields.io/badge/pycord-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML&CSS](https://img.shields.io/badge/HTML&CSS-%23E34F26.svg?style=for-the-badge&logo=HTML&CSS&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ad63d838-2f92-4b55-8cfa-1fa722448b5e/35c98ba2-ecf1-4840-94d3-1340d64d2a31.png" /></a>
   
 -------------------
   
