@@ -24,9 +24,4 @@ ich bin Blue_Gamer48 und Entwickle Discord Bots und Minecraft Plugins
 
 ----------
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BLue-Gamer48/count.svg" />
-</p>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Gamer48&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
