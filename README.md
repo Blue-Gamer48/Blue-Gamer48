@@ -12,7 +12,7 @@ ich bin Blue_Gamer48 und Entwickle Discord Bots und Minecraft Plugins
 
 
 ### Genuzte Prorammiersprachen (Alle Zeiten)
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ad63d838-2f92-4b55-8cfa-1fa722448b5e/35c98ba2-ecf1-4840-94d3-1340d64d2a31.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ad63d838-2f92-4b55-8cfa-1fa722448b5e/026670b8-1ceb-401b-ba2b-f5fee4950cce.png" /></a>
   
 -------------------
   
