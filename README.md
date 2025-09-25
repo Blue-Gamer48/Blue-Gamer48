@@ -19,9 +19,6 @@ ich bin Blue_Gamer48 und Entwickle Discord Bots und Minecraft Plugins
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Gamer48&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
   
 -------------------
-  
-
-![Blue_Gamer48s github streak](https://github-readme-streak-stats.herokuapp.com/?user=Blue-Gamer48&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
 
