@@ -14,7 +14,7 @@ ich bin Blue_Gamer48 und Entwickle Discord Bots und Minecraft Plugins
 
 
 ### Genuzte Prorammiersprachen (Alle Zeiten)
-<a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Gamer48&layout=pie)](https://github.com/anuraghazra/github-readme-stats)" /></a>
+<a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Gamer48&layout=pie)](https://github.com/Blue-Gamer48/github-readme-stats)" /></a>
   
 -------------------
   
